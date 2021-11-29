@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🤖 Beep Boop
 
-<!--
-**crayonbot/crayonbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "crayonbot"
+  "description": "Keeps track of stuff for @crayon"
+  "principles": {
+    "A robot may not injure a human being or, through inaction, allow a human being to come to harm.",
+    "A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
+    "A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws."
+  }
+}
+```
