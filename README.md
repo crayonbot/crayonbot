@@ -1,5 +1,3 @@
-## 🤖 Beep Boop
-
 ```json
 {
   "name": "crayonbot"
